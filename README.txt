@@ -1,1 +1,3 @@
-这是使用speechbrain里面的损失函数来创建ASR的例子，使用的是Tranducer模型
+使用speechbrain里面的Tranducer损失函数来创建ASR的例子
+Tranducer模型:
+![image]()
